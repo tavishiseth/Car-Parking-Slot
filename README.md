@@ -112,9 +112,9 @@ users to make payments using their Pay-Pal accounts.
 Logging in with test Pay-Pal ID and password:  
 ![image](https://user-images.githubusercontent.com/75008683/146673114-f59333a8-2de7-4b1f-80cd-4ead83a3cac9.png)
 
-Final payment confirmation page:  
+Final payment confirmation page: 
 ![image](https://user-images.githubusercontent.com/75008683/146673139-82ad4485-4798-47cc-b3db-5f949cf2c626.png)
 
-Successful payment confirmation  
+Successful payment confirmation: 
 ![image](https://user-images.githubusercontent.com/75008683/146673159-17ce1700-670c-424b-993a-2538665c8d34.png)
 
