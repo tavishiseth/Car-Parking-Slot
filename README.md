@@ -1,6 +1,66 @@
-# Car-Parking-Slot
+# Car Parking Slot Application
 
-Technologies Used
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+1. **Java 8**  
+   You can download and install Java 8 from the [official Oracle website](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+
+2. **Maven**  
+   Download and install Maven from the [official Maven website](https://maven.apache.org/download.cgi).
+
+## Running the Application
+
+Follow these steps to run the application:
+
+### 1. Set up and Start the PayPal App
+
+1. Open **PowerShell** and navigate to the `PayPalApp` directory:
+
+   ```bash
+   cd Car-Parking-Slot-main\Car-Parking-Slot-main\PayPalApp
+   ```
+
+2. Clean and install the project using Maven:
+
+   ```bash
+   mvn clean install
+   ```
+3. Run the Spring Boot application:
+
+   ```bash
+   mvn spring-boot:run -e
+   ```
+### 2. Set up and Start the Car Parking Solution App
+
+1. Open a second PowerShell window and navigate to the CarParkingSolutionApp directory:
+
+   ```bash
+   cd Car-Parking-Slot-main\Car-Parking-Slot-main\CarParkingSolutionApp
+   ```
+
+2. Clean and install the project using Maven:
+
+   ```bash
+   mvn clean install
+   ```
+3. Run the Spring Boot application:
+
+   ```bash
+   mvn spring-boot:run -e
+   ```
+
+### 3. Access the Application
+
+   Once both applications are running, open your web browser and go to:
+
+   ```bash
+   http://localhost:8080
+   ```
+   
+
+## Technologies Used
 1. Back End: 
 Java framework used - Spring Boot  
 • Spring Boot provides Java developers with a platform to get started with an auto 
