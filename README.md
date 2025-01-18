@@ -34,7 +34,7 @@ Follow these steps to run the application:
    ```
 ### 2. Set up and Start the Car Parking Solution App
 
-1. Open a second PowerShell window and navigate to the CarParkingSolutionApp directory:
+1. Open a second PowerShell window and navigate to the `CarParkingSolutionApp` directory:
 
    ```bash
    cd Car-Parking-Slot-main\Car-Parking-Slot-main\CarParkingSolutionApp
