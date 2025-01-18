@@ -96,7 +96,7 @@ It provides the option to sign up for a new account or
 login into an existing account using email and password credentials or Google based 
 authentication.  
 All these details are maintained in the database at regular intervals.  
-a) Admin User can sign in through his credentials - email and password:  
+a) Admin User can sign in through his credentials - email "admin@gmail.com" and password "123456":  
 ![b](https://user-images.githubusercontent.com/75008683/146672744-470a1cc1-a0d6-4aa6-b651-6678e3b451c6.png)
 
 b) A new customer can register himself by providing his details - first name, last name, 
@@ -110,7 +110,7 @@ Admin has the power to add, remove, view, update the information about workers, 
 spaces, and parking locations.   
 The user can view the available parking spaces for a particular location based on time slot, date, 
 and vehicle type.  
-a) Admin Dashboard  
+a) Admin Dashboard (can be accessed by clicking on top left icon)
 ![image](https://user-images.githubusercontent.com/75008683/146672795-9fcf11cc-64a0-4805-9bdd-4dca9fddba00.png)
 
 Managing Workers: Admin can add or remove workers.  
