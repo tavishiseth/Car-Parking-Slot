@@ -197,8 +197,9 @@ Logging in with test Pay-Pal ID and password:
 
 
 Final payment confirmation page:  
-![image](https://user-images.githubusercontent.com/75008683/146673139-82ad4485-4798-47cc-b3db-5f949cf2c626.png)
+![image](https://github.com/user-attachments/assets/7f18ff8d-c03a-4443-a1b9-7aa154746bb2)
+
+
 
 Successful payment confirmation:  
-![image](https://user-images.githubusercontent.com/75008683/146673159-17ce1700-670c-424b-993a-2538665c8d34.png)
-
+![image](https://github.com/user-attachments/assets/5821caae-b423-4ce2-bbc0-d40946585476)
