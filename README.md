@@ -113,6 +113,8 @@ Admin has the power to add, remove, view, update the information about workers, 
 spaces, and parking locations.   
 The user can view the available parking spaces for a particular location based on time slot, date, 
 and vehicle type.  
+
+
 a) Admin Dashboard (can be accessed by clicking on top left icon)  
 ![image](https://github.com/user-attachments/assets/be5df77a-f9cf-473c-834b-dd095ed9f3a4)
 
@@ -121,7 +123,7 @@ Managing Workers: Admin can add or remove workers.
 ![image](https://github.com/user-attachments/assets/ecaf0986-e0de-4943-b81b-47a4cbf3220d)
 
 
-• Adding a worker named T1:  
+Adding a worker named T1:  
 ![image](https://github.com/user-attachments/assets/210d451b-9b41-4242-804d-ba6b17926a28)
 
 
@@ -129,8 +131,9 @@ At serial number 7, the new worker T1 is added.
 ![image](https://github.com/user-attachments/assets/ab19e808-3431-4ef1-9991-1fffb9e4d2bf)
 
 
-• Removing/updating a worker:  
+Removing/updating a worker:  
 ![image](https://user-images.githubusercontent.com/75008683/146672857-bd4fe7cf-388e-4197-8a71-448785c0bcfd.png)
+
 
 The worker previously at serial number 6 has been removed as shown below.  
 ![image](https://github.com/user-attachments/assets/93bfaa25-ea49-4830-ad57-5d96c62eab68)
@@ -138,42 +141,47 @@ The worker previously at serial number 6 has been removed as shown below.
 b) User Dashboard  
 
 
-i) User can select car parking space and parking slots according to their preferred location  
+User can select car parking space and parking slots according to their preferred location.  
 ![image](https://github.com/user-attachments/assets/90cdbd33-c880-4cca-9349-7b47e4ab29e8)
 
 
-ii) User can view the details of their chosen parking spaces and parking slots  
+User can view the details of their chosen parking spaces and parking slots.  
 ![image](https://github.com/user-attachments/assets/1715ee90-3592-4dc9-8227-bbe4fddaf3a2)
 
 
 ### Module 3 - Managing Parking Spaces  
 The powers of the admin to modify the parking spaces, locations and slots are shown below.  
-1) Admin can edit/view/list all the parking spaces:  
+
+1) Admin can edit/view/list all the parking spaces:
+
+
 ![image](https://github.com/user-attachments/assets/44defbca-5254-487b-9ffa-60a81bedd7a6)
 
 
-i) Adding L&T_P02 Parking space  
+Adding L&T_P02 Parking space.  
 ![image](https://github.com/user-attachments/assets/c9582846-552e-41c5-9d97-78131acbd0b6)
 
 
-ii) Removing Parking space ID: Sujana_P04  
+Removing Parking space ID: Sujana_P04.  
 ![image](https://github.com/user-attachments/assets/86d2eee3-fa4a-44ad-a07e-0fe92bbd728d)
 ![image](https://github.com/user-attachments/assets/ad5db27c-b0aa-4ab3-b7f2-76a7e9be7f27)
 
 
-iii) Updating L&T_P01’s vehicle type to “LARGE”  
+Updating L&T_P01’s vehicle type to “LARGE”.  
 ![image](https://github.com/user-attachments/assets/de883be1-af04-48f3-acde-a7ac38ef5944)
 
 
-2) Managing Locations:  
+2) Managing Locations:
+
+
 ![image](https://github.com/user-attachments/assets/2c45e425-ec8e-49c7-9cad-aa9f83f169e6)
 
 
-i) Adding a location named “5-Star Mall”  
+Adding a location named “5-Star Mall”.  
 ![image](https://github.com/user-attachments/assets/ba6eaf49-b5d1-4aab-af01-c55cc046c839)
 
 
-ii) Deleting a location named “Bits Goa”  
+Deleting a location named “Bits Goa”.  
 ![image](https://github.com/user-attachments/assets/5c4ffa34-b3f7-4e87-a0ad-6d3583c10a49)
 ![image](https://github.com/user-attachments/assets/d0df1a1a-c973-464d-96d4-56f514570332)
 
@@ -181,11 +189,13 @@ ii) Deleting a location named “Bits Goa”
 ### Module 4- Bill Payment  
 After confirming for a parking space and slot, the customer can pay through the wallet or they can make a payment through Paypal. Also, customers can remove a
 selected parking space if required.  
+
+
 Cart and final confirmation page are shown below:  
 ![image](https://github.com/user-attachments/assets/470ee0f0-df17-4228-ba39-93d145ce77f2)
 ![image](https://github.com/user-attachments/assets/5c62062c-e9d5-4798-8118-fe0399b981a3)
 
-### Payment page:  
+Payment page:  
 ![image](https://github.com/user-attachments/assets/ee282afc-0b94-4413-8a64-00583c791c76)
 
 
